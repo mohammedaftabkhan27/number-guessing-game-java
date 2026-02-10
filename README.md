@@ -26,5 +26,8 @@ A console-based Number Guessing Game built using Java.
 ## Sample Output
 Congratulations! You guessed the correct number in 4 attempts.
 
+## project url
+https://github.com/mohammedaftabkhan27/number-guessing-game-java
+
 ## Author
 Mohammed Aftab Khan
